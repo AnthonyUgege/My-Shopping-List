@@ -40,6 +40,10 @@ img {
   padding: 20px;
 }
 
+.edit-mode{
+  color:#ccc;
+}
+
 /* Form & Input */
 .form-input {
   width: 100%;
